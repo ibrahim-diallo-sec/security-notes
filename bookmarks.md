@@ -13,4 +13,4 @@
 
 ## Mes notes privées
 
-- [Notes de recherche]([<URL_DU_GIST>](https://gist.github.com/ibrahim-diallo-sec/e4cdb3b511336954c207830727c1955e))
+- [Notes de recherche](https://gist.github.com/ibrahim-diallo-sec/e4cdb3b511336954c207830727c1955e)
