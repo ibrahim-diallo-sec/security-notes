@@ -1,4 +1,3 @@
-```markdown
 # Security Notes
 
 Notes personnelles et ressources en cybersécurité.
@@ -11,4 +10,3 @@ Notes personnelles et ressources en cybersécurité.
 ## Contact
 
 ibrahim.diallo@techshield-ci.com
-```
